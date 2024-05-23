@@ -1,0 +1,328 @@
+
+
+    {
+        "Userprofile": {
+            "name": "Medha Agarwal",
+            "hall": "Hall 4",
+            "email": "medhaagar23@iitk.ac.in",
+            "contact": "8937885144",
+            "image": "",
+            "buying_summary": [
+                {
+                    "product": "Sleepwell Ortho Mattress",
+                    "category":"mattresses",
+                    "price": "650",
+                    "seller": {
+                        "name": "Prachi Gupta",
+                        "email": "prachigupta20@iitk.ac.in",
+                        "contact": "9877634211"
+                    }
+                },
+                {
+                    "product": "Lazer Arctic Personal 22L Air Cooler",
+                    "category":"coolers",
+                    "price": "2500",
+                    "seller": {
+                        "name": "Rohit Singh",
+                        "email": "rohits20@iitk.ac.in",
+                        "contact": "6778843218"
+                    }
+                }
+            ],
+            "selling_summary": [
+                {
+                    "product": "Orient Electric Ultimo 50L Desert Air Cooler",
+                    "category":"coolers",
+                    "price": "5,790",
+                    "seller": {
+                        "name": "Medha Agarwal",
+                        "email": "medhaagar20@iitk.ac.in",
+                        "contact": "8937885144"
+                    }
+                },
+                {
+                    "product": "Coirfit Bone Zone 4 Inch Single Back Care Bonded Foam Mattress",
+                    "category":"mattresses",
+                    "price": "750",
+                    "seller": {
+                        "name": "Medha Agarwal",
+                        "email": "medhaagar20@iitk.ac.in",
+                        "contact": "8937885144"
+                    }
+                }
+            ]
+        },
+        "Home": {
+            "Coolers": [
+                {
+                    "image":[ "/image/1.1.jpg","/image/1.2.jpg","/image/1.3.jpg","/image/1.4.jpg"],
+                    "name": "Orient Electric Ultimo 50L Desert Air Cooler with Densenest Honeycomb pads, Ice chamber & High Air Delivery | Desert Cooler for home (Grey and Orange)",
+                    "seller": {
+                        "name": "Medha Agarwal",
+                        "email": "medhaagar20@iitk.ac.in",
+                        "contact": "8937885144"
+                    },
+                    "price": "5,790",
+                    "Brand": "Orient Electric",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature": "Portable",
+                    "Colour": "Grey",
+                    "AirFlowCapacity": "3650 CMPH",
+                    "ControlsType": "Knob",
+                    "ReservoirCapacity": "50 litres",
+                    "ModelName": "Ultimo 50 L"
+                },
+                {
+                    "image": [ "/image/2.1.jpg","/image/2.2.jpg","/image/2.3.jpg","/image/2.4.jpg"],
+                    "name": "Symphony Ice Cube 27 Personal Air Cooler For Home with Powerful Fan, 3-Side Honeycomb Pads, i-Pure Technology and Low Power Consumption (27L, White)",
+                    "price": "2,791",
+                    "seller": {
+                        "name": "Ayush Agarwal",
+                        "email": "ayushag20@iitk.ac.in",
+                        "contact": "9876543211"
+                    },
+                    "Brand": "Symphony",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature": "Low Power Consumption",
+                    "Colour": "White/Blue",
+                    "AirFlowCapacity": "3000 CMPH",
+                    "ControlsType": "Knob",
+                    "ReservoirCapacity": "27 litres",
+                    "ModelName": "Ice Cube"
+                },
+                {
+                    "image":[ "/image/3.1.jpg","/image/3.2.jpg","/image/3.3.jpg","/image/3.4.jpg"],
+                    "name": "Livpure Koolbliss Desert Air Cooler- 110L | Cooler with High Air Delivery, Ice Chamber, Honeycomb Pads, Sturdy Wheels | Room Cooler with Inverter Compatibility| 2 year Warranty by Livpure",
+                    "price": "5,000",
+                    "seller": {
+                        "name": "Tarushi Khandelwal",
+                        "email": "tarushik20@iitk.ac.in",
+                        "contact": "1234567899"
+                    },
+                    "Brand": "Livpure",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature": "Low Water Indicator",
+                    "Colour": "White & Blue",
+                    "AirFlowCapacity": "5800 CMPH",
+                    "ControlsType": "Knob",
+                    "ReservoirCapacity": "110 litres",
+                    "ModelName": "KOOLBLISS 110 L"
+                },
+                {
+                    "image": [ "/image/4.1.jpg","/image/4.2.jpg","/image/4.3.jpg","/image/4.4.jpg"],
+                    "name": "Maharaja Whiteline Rambo Ac-303 65 L Air Cooler, Standard, Grey And Black",
+                    "price": "3000",
+                    "seller": {
+                        "name": "Siddharth Gupta",
+                        "email": "sidharthg@iitk.ac.in",
+                        "contact": "6755432178"
+                    },
+                    "Brand": "Maharaja Whiteline",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature": "Portable",
+                    "Colour": "Grey And Black",
+                    "AirFlowCapacity": "5800 CMPH",
+                    "ControlsType": "Remote",
+                    "ReservoirCapacity": "65 litres",
+                    "ModelName": "rambo"
+                },
+                {
+                    "image": [ "/image/5.1.jpg"],
+                    "name": "Lazer Arctic Personal 22L Air Cooler (White Brown)",
+                    "price": "2500",
+                    "seller": {
+                        "name": "Rohit Singh",
+                        "email": "rohits20@iitk.ac.in",
+                        "contact": "6778843218"
+                    },
+                    "Brand": "Lazer",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature": "Low Power Consumption",
+                    "Colour": "White Brown",
+                    "AirFlowCapacity": "1300 CMPH",
+                    "ControlsType": "Button",
+                    "ReservoirCapacity": "22 litres",
+                    "ModelName": "ARCTIC"
+                },
+                {
+                    "image":[ "/image/6.1.jpg","/image/6.2.jpg","/image/6.3.jpg","/image/6.4.jpg"],
+                    "name": "Symphony Diet 12T Personal Tower Air Cooler for Home with Honeycomb Pad, Powerful Blower, i-Pure Technology and Low Power Consumption (12L, White)",
+                    "price": "3100",
+                    "seller": {
+                        "name": "Suyash Goel",
+                        "email": "suyashg20@iitk.ac.in",
+                        "contact": "1234567844"
+                    },
+                    "Brand": "Symphony",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature": "Adjustable Speed",
+                    "Colour": "White",
+                    "AirFlowCapacity": "1 Cubic Feet Per Minute",
+                    "ControlsType": "Remote",
+                    "ReservoirCapacity": "12 litres",
+                    "ModelName": "Diet"
+                },
+                {
+                    "image": [ "/image/7.1.jpg","/image/7.2.jpg","/image/7.3.jpg","/image/7.4.jpg"],
+                    "name": "Crompton Ozone Desert Air Cooler- 75L; with Everlast Pump, Auto Fill, 4-Way Air Deflection and High Density Honeycomb Pads; White & Teal",
+                    "price": "4300",
+                    "seller": {
+                        "name": "Srishti Singh",
+                        "email": "srishtis20@iitk.ac.in",
+                        "contact": "5677677891"
+                    },
+                    "Brand": "Crompton",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature": "Adjustable Speed",
+                    "Colour": "White & Teal",
+                    "AirFlowCapacity": "1 Cubic Feet Per Minute",
+                    "ControlsType": "Remote",
+                    "ReservoirCapacity": "75 litres",
+                    "ModelName": "Ozone"
+                },
+                {
+                    "image": [ "/image/8.1.jpg","/image/8.2.jpg","/image/8.3.jpg","/image/8.4.jpg"],
+                    "name": "Bajaj PX97 Torque New 36L Personal Air Cooler For Room| DuramarinePump| 3-Yr Warranty| TurboFan Technology| Powerful Air Throw| 3-Speed Control| Portable Air Cooler For Home| White",
+                    "price": "4900",
+                    "seller": {
+                        "name": "Prachi Gupta",
+                        "email": "prachigupta20@iitk.ac.in",
+                        "contact": "9877634211"
+                    },
+                    "Brand": "Bajaj",
+                    "MountingType": "Freestanding",
+                    "SpecialFeature":
+                    "Adjustable Speed",
+                    "Colour": "White",
+                    "AirFlowCapacity": "1177 CFPH",
+                    "ControlsType": "Knob",
+                    "ReservoirCapacity": "35 litres",
+                    "ModelName": "PX 97 Torque New"
+                }
+            ],
+            "Mattresses": [
+                {
+                    "name": "Coirfit Bone Zone 4 Inch Single Back Care Bonded Foam Mattress|Extra Firm Mattress|Spine Protective|Rebotech Technology (L:72 x W:35 Inch)",
+                    "specialFeature": "Orthopedic",
+                    "fillMaterial": "Foam",
+                    "brand": "Coirfit",
+                    "colour": "Multicolour",
+                    "price": "750",
+                    "seller": {
+                        "name": "Medha Agarwal",
+                        "email": "medhaagar20@iitk.ac.in",
+                        "contact": "8937885144"
+                    },
+                    "image":[ "/image/9.1.jpg","/image/9.2.jpg","/image/9.3.jpg","/image/9.4.jpg"]
+                },
+                {
+                    "name": "Sleepwell Ortho Mattress | Quilted | 5-inch Single Bed Size, Impressions Memory Foam, Medium Firm Mattress(Purple, 72x30x5)",
+                    "specialFeature": "Orthopedic, Pressure Relief, Breathable, Low Motion Transfer",
+                    "fillMaterial": "Memory Foam, High Density Foam",
+                    "brand": "Sleepwell",
+                    "productDimensions": "182.9L x 76.2W x 12.7Th Centimeters",
+                    "colour": "Purple",
+                    "price": "650",
+                    "seller": {
+                        "name": "Prachi Gupta",
+                        "email": "prachigupta20@iitk.ac.in",
+                        "contact": "9877634211"
+                    },
+                    "image": [ "/image/10.1.jpg","/image/10.2.jpg","/image/10.3.jpg","/image/10.4.jpg"]
+                },
+                {
+                    "name": "Sevato 2Inch Multipurpose Dual Sided Reversible Single 4 Foldable Bed Mattress for Travelling, Pinic, Light Weight, PU Foam Mattress (72 X 36X 2 Inch, Single Size Bed,Multcolor) -A25",
+                    "specialFeature": "Pressure Relief",
+                    "material": "Cotton",
+                    "colour": "Multicolour",
+                    "brand": "Sevato",
+                    "productDimensions": "181L x 91W x 5Th Centimeters",
+                    "price": "400",
+                    "seller": {
+                        "name": "Ravi Singh",
+                        "email": "ravisingh20@iitk.ac.in",
+                        "contact": "6578834211"
+                    },
+                    "image": [ "/image/11.1.jpg","/image/12.2.jpg","/image/13.3.jpg","/image/14.4.jpg"]
+                },
+                {
+                    "name": "colofly Soft Cotton Multicolour Mattress Gadda Single Bed 3x6 Feet Dark Blue Color",
+                    "specialFeature": "Rollable",
+                    "fillMaterial": "Cotton",
+                    "brand": "COLOFLY",
+                    "productDimensions": "182.9L x 91.4W x 10.2Th Centimeters",
+                    "colour": "Blue check",
+                    "price": "1000",
+                    "seller": {
+                        "name": "Aviral Khandelwal",
+                        "email": "aviralkh20@iitk.ac.in",
+                        "contact": "8877634211"
+                    },
+                    "image":[ "/image/12.1.jpg","/image/12.2.jpg","/image/12.3.jpg","/image/12.4.jpg"]
+                },
+                {
+                    "name": "COLOFLY Pu Foam Mattress (Single, Blue) 72X35X3",
+                    "specialFeature": "Back Support",
+                    "fillMaterial": "High Density Foam",
+                    "brand": "COLOFLY",
+                    "productDimensions": "182.9L x 88.9W x 7.6Th Centimeters",
+                    "colour": "Blue",
+                    "price": "500",
+                    "seller": {
+                        "name": "Sarthak Arora",
+                        "email": "sarthakar20@iitk.ac.in",
+                        "contact": "9877654211"
+                    },
+                    "image": [ "/image/13.1.jpg","/image/13.2.jpg","/image/13.3.jpg","/image/13.4.jpg"]
+                },
+                {
+                    "name": "Coirfit 4-inch Foam Firm Single Size Mattress (72x30x4 Inches, Maroon)",
+                    "colour": "Maroon",
+                    "brand": "Coirfit",
+                    "size": "Single",
+                    "itemDepth": "4 inches",
+                    "itemDimensions": "182.9 x 76.2 x 10.2 Centimeters",
+                    "price": "800",
+                    "seller": {
+                        "name": "Priyansh Jain",
+                        "email": "priyanshj20@iitk.ac.in",
+                        "contact": "9877634667"
+                    },
+                    "image":[ "/image/14.1.jpg","/image/14.2.jpg","/image/14.3.jpg"]
+                },
+                {
+                    "name": "CHILLI BILLI Extra Soft Single Bed Folding Pure Extra Soft Pu Foam Mattress for Travel, Picnic (Mattresses 2 inch) Multicolor, (72x35x2)",
+                    "size": "6X3FT",
+                    "specialFeature": "Plush",
+                    "fillMaterial": "Foam",
+                    "brand": "CHILLI BILLI",
+                    "productDimensions": "182.9L x 88.9W x 5.1Th Centimeters",
+                    "colour": "Multicolour",
+                    "price": "400",
+                    "seller": {
+                        "name": "Priyanka Gupta",
+                        "email": "ppriyankag20@iitk.ac.in",
+                        "contact": "8987634211"
+                    },
+                    "image": [ "/image/15.1.jpg","/image/15.2.jpg","/image/15.3.jpg"]
+                },
+                {
+                    "name": "Springtek Amaze Eco 4 Inch Single Size Bed Mattresses with High Density (HD Foam Mattress (72X30X4 Inches, 2 Year Warranty",
+                    "specialFeature": "Antimicrobial Fiber Layer",
+                    "fillMaterial": "High Density Foam",
+                    "brand": "Springtek",
+                    "productDimensions": "182.9L x 76.2W x 10.2Th Centimeters",
+                    "colour": "Red",
+                    "price": "600",
+                    "seller": {
+                        "name": "Shreyas Agarwal",
+                        "email": "shreyasag20@iitk.ac.in",
+                        "contact": "9696914322"
+                    },
+                    "image": [ "/image/16.1.jpg","/image/16.2.jpg","/image/16.3.jpg"]
+                }
+            ]
+        }
+    }
+    
+    
