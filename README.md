@@ -1,4 +1,4 @@
-## Campus eBay
+# Campus eBay
 
 ### Goal:
 The aim of this project is to create a shopping app for campus students to facilitate the buying and selling of items such as coolers and mattresses, especially useful when students are leaving campus. This app is designed to streamline these transactions, which currently rely on personal connections.
