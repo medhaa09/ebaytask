@@ -7,21 +7,26 @@ This project is a web application designed for campus users to buy and sell prod
 ## Technologies Used
 
 - **Frontend Framework:** React.js
-- **Styling Library:** Chakra ui and gsap for animation
+- **Styling Library:** Chakra ui for components and gsap for animation
 - **Deployment:** Netlify
 
 ## Pages Designed
+1. **User Profile**
+2. **Marketplace**
+3. **Product Preview**
+4. **Chat Interface**
+5. **Map**: 
+6. **HelpBot**
+To run this project locally, follow these steps:
 
-1. **User Profile:**
-
-2. **Marketplace:**
-
-3. **Product Preview:**
-
-4. **Chat Interface:**
-5. 
-6. **Map:**
-
-7. **HelpBot:**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/campus-ebay.git
+   cd ebaytask
+2. install dependencies:
+   ```bash
+   npm install
+ ```bash
+   npm start
 
 
